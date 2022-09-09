@@ -19,11 +19,6 @@ Given chemical analyte exposure times between 0.75 and 5 seconds and across thre
 
 - A discussion of conditional image synthesis metrics with a comparison to alternative methods for evaluating the quality of conditionally-generated images. 
 
-The alterations to include cycles in conditional generators demonstrate improvements to comparable baseline CGANs across a variety of established and proposed metrics. Additional experiments demonstrate the successes of inducing cycles in conditional GANs for both image synthesis and image classification over comparable models.
-
-![imageLeft](imgs/analyte_a.png)
-
-![imageRight](imgs/analyte_b.png)
 
 ## Novelty
 We induce cycles for conditional generators to move samples between labelled latent and data spaces such that the generative quality and supervised learning ability of the resulting model is improved.
