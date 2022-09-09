@@ -13,6 +13,10 @@ Training machine learning models to remain accurate on distribution-shifted test
 
 ![results_nn_acgan](imgs/nn_vs_acgan.png)
 
+<p align="center">
+  <img src="imgs/nn_vs_acgan.png" />
+</p>
+
 With this in mind, we benchmark and propose machine learning and deep learning approaches to the detection of obscured chemical analytes given only single-analyte training. We significantly improve upon baseline classification of a particular chemical analyte borne in vapor mixed with an obscurant chemical agent by inducing multitask learning through adversarial data synthesizing models.
 
 Given chemical analyte exposure times between 0.75 and 5 seconds and across three unique experiment data sets comprised of different sensors and experimental controls, we find approaches utilizing Auxiliary Classifier Generative Adversarial Networks (ACGANs) outperform machine learning and comparable neural network approaches. We corroborate with multitask learning to find that across domains the utilization of generative tasks in supervised learners may increase data efficiency and model robustness to out-of-distribution samples without additional data annotation.
