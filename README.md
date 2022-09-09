@@ -3,11 +3,11 @@ Public repo corresponding to ACGANs Improve Chemical Sensors for Challenging Dis
 
 Images, tables, abstract, description. Can't provide data due to Defense Threat Reduction Agency project
 
-# Cycles Improve Conditional Generators
+## Primary results
+![results table 1](imgs/table1.png)
 
-Conditional Generative Adversarial Networks (CGANs) are diversely utilized for data synthesis in applied sciences and natural image tasks. Conditional generative models extend upon data generation to account for labelled data by estimating joint distributions of samples and labels. We present a family of modified CGANs which leverage cycles between prior and data spaces to improve upon baselines for natural image synthesis and natural image classification with three primary contributions. 
 
-![results table](imgs/table1.png)
+![results table 2](imgs/table2.png)
 
 - An ablation study on synthesis of [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) proposing three novel architectures for conditional data generation which demonstrate improvement on baseline generation quality for a natural image dataset as well as increasingly small subsets across multiple generative metrics.
 
