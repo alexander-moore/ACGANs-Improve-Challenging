@@ -28,8 +28,8 @@ The alterations to include cycles in conditional generators demonstrate improvem
 ## Novelty
 We induce cycles for conditional generators to move samples between labelled latent and data spaces such that the generative quality and supervised learning ability of the resulting model is improved.
 
-Conditional Autoencoder-GAN             |  Cycle Conditional Autoencoder-GAN
+Unobscured Analyte             |  Obscured Analyte Mixture
 :-------------------------:|:-------------------------:
-![imageLeft](imgs/CAEGAN_annot.png)  |  ![imageRight](imgs/CCAEGAN_annot.png)
+![imageLeft](imgs/analyte_a.png)  |  ![imageRight](imgs/analyte_a_analyte_b.png)
 
 
