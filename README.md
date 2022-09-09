@@ -11,8 +11,6 @@ Contributions:
 
 Training machine learning models to remain accurate on distribution-shifted testing data requires performing many diverse, costly experiments in controlled laboratory settings to create a well-rounded training data set. In practice even expensive, large data sets may be insufficient for generalization of a trained model to a real-world testing distribution. It is possible but costly to create large, diverse datasets of single-analyte exposures, but experimentation with multi-analyte combinations quickly becomes intractable.
 
-![results_nn_acgan](imgs/nn_vs_acgan.png)
-
 <p align="center">
   <img src="imgs/nn_vs_acgan.png" />
 </p>
