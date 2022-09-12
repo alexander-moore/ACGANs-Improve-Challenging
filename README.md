@@ -1,5 +1,5 @@
 # ACGANs Improve Chemical Sensors for Challenging Distributions
-Public repo corresponding to ACGANs Improve Chemical Sensors for Challenging Distributions - ICMLA 2022 Oral Presentation + Paper
+Public repo corresponding to ACGANs Improve Chemical Sensors for Challenging Distributions - **ICMLA 2022 Oral Presentation + Paper**
 
 Contributions:
 
